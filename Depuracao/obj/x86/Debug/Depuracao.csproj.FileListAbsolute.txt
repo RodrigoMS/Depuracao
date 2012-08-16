@@ -1,0 +1,5 @@
+F:\Depuracao\Depuracao\bin\Debug\Depuracao.exe
+F:\Depuracao\Depuracao\bin\Debug\Depuracao.pdb
+F:\Depuracao\Depuracao\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Depuracao\Depuracao\obj\x86\Debug\Depuracao.exe
+F:\Depuracao\Depuracao\obj\x86\Debug\Depuracao.pdb
